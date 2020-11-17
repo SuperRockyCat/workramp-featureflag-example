@@ -1,5 +1,8 @@
 # LaunchDarkly Node Server SDK Feature Flag Example
 
+## **What is it?**
+*A sample Node app built using the LaunchDarkly Node Server SDK and Express, meant to demonstrate a LaunchDarkly Feature Flag*
+
 ## **What does it do?**
 
 *Prints the feature flag value to the browser window*
